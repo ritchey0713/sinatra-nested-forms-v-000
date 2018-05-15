@@ -15,8 +15,11 @@ class Pirate
   PIRATES
 end 
 
+<<<<<<< HEAD
 def self.clear 
   PIRATES.clear
 end 
 
+=======
+>>>>>>> 8afe73504429e18cfe3455409b7ee8aa870b72a1
 end

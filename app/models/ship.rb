@@ -4,6 +4,7 @@ class Ship
   
   SHIPS = []
   
+<<<<<<< HEAD
   def initialize(params)
     @name = params[:name]
     @type = params[:type]
@@ -18,4 +19,7 @@ class Ship
   def self.clear
     SHIPS.clear
   end 
+=======
+  d
+>>>>>>> 8afe73504429e18cfe3455409b7ee8aa870b72a1
 end
